@@ -1,0 +1,4 @@
+#JSGF V1.0 UTF-8;
+grammar Welcome;
+
+public <welcome> = おはよう [ございます] | こんにちは | こんばんは | さようなら;
