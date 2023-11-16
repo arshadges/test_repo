@@ -1,0 +1,4 @@
+# JSGF V1.0 SJIS;
+grammar Greeting;
+
+public <greeting> = おはよう [ございます] | こんにちは | こんばんは | さようなら;
